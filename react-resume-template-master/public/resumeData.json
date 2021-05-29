@@ -1,0 +1,156 @@
+{
+  "main": {
+    "name": "Nevash Gobin",
+    "occupation": "Recent Graduate",
+    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image": "profilepic.jpg",
+    "bio": "Strong knowledge of object-oriented programing and application development tools using Java, Python, Javascript, C++, PHP; HTML/CSS and VBA. Full-Stack Development using development tools such as ReactJs, ExpressJs, ElephantSql, Laravel, Git, NodeJs",
+    "contactmessage": "Contact Me",
+    "email": "nevash19@gmail.com",
+    "phone": "(868) 703-7113",
+    "address": {
+      "street": "#11 Hin Kin Street",
+      "city": "Cunupia",
+      "state": "Trinidad & Tobago",
+      "zip": " "
+    },
+    "website": "/",
+    "resumedownload": "Nevash Gobin Resume - Bsc. Information Technology.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/tim.baker.906",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/nevash-gobin-715b481b3/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/tbaker_x",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/nevash-gobin",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University of the West Indies, St. Augustine",
+        "degree": "BSc. Information Technology (Hons) ",
+        "graduated": "2021",
+        "description": "Final Project: myAdvisor - a self-academic advising and GPA management system for the students of the Department of Computing and Technology at the University of the West Indies, St. Augustine."
+      },
+      {
+        "school": "Hillview College",
+        "Studies": "Business/Computer Science",
+        "graduated": "2015 CXC, 2017 CAPE",
+        "description": "Business/Computer Science"
+      }
+    ],
+    "work": [
+      {
+        "company": "The Client Catchers Ltd.",
+        "title": "Web Development Intern",
+        "years": "August 2020 - Present",
+        "description": "Developing a Web App using Node, React, HTML/CSS."
+      },
+      {
+        "company": "Alma Jordan Library, UWI, St. Augustine",
+        "title": "Full-Stack Developer Internship",
+        "years": "June 2020 - August 2020",
+        "description": "Developed a web curbside pickup system for the campus’ library using the Laravel-PHP Framework."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "95%"
+      },
+      {
+        "name": "Javascript",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5/CSS",
+        "level": "98%"
+      },
+      {
+        "name": "SQL",
+        "level": "75%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "97%"
+      },
+      {
+        "name": "ExpressJs",
+        "level": "70%"
+      },
+      {
+        "name": "Python",
+        "level": "92%"
+      },
+      {
+        "name": "PHP",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "myAdvisor",
+        "category": "Self-Academic Advising App for UWI",
+        "image": "myAdvisor.png",
+        "url": "https://myadvisorapp.herokuapp.com"
+      },
+      {
+        "title": "PiFarm",
+        "category": "This project was built using React.js to automate a hydroponic system.",
+        "image": "pifarm.png",
+        "url": "/"
+      },
+      {
+        "title": "Checkout Page Challenge",
+        "category": "Responsive design challenge from devchallenges.io. Built using flexbox and CSS grid.",
+        "image": "checkout.png",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website",
+        "image": "resume-website.jpg",
+        "url": "/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+        "user": "Martin Fowler"
+      },
+      {
+        "text": "All our dreams can come true, if we have the courage to pursue them.",
+        "user": "Walt Disney"
+      }
+    ]
+  }
+}
